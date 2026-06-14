@@ -12,14 +12,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Cybersecurity & Python developer** who builds real, deployable security tools — from network scanners and firewall engines to encryption applications. I also explore **AI/ML** for real-world impact, including deep learning for medical diagnosis and agricultural anomaly detection.
 
-- 🔐 Focused on **applied cybersecurity**: network recon, firewall automation, cryptography
-- 🤖 Building **AI systems** that solve tangible problems in healthcare and agriculture
-- 🛠️ Every project I build ships as a working tool — not just a proof of concept
-- 🌍 Based in **Ireland**
+- > Focused on **applied cybersecurity**: network recon, firewall automation, cryptography
+- > Building **AI systems** that solve tangible problems in healthcare and agriculture
+- > Every project I build ships as a working tool — not just a proof of concept
+- > Based in **Ireland**
 
 ---
 

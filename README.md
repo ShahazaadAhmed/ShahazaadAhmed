@@ -67,13 +67,103 @@ I'm a **Cybersecurity & Python developer** who builds real, deployable security 
 
 ---
 
-## GitHub Stats
+###  RapidNet Scanner
+
+A network discovery and port-scanning application combining ARP discovery with multithreaded TCP scanning through a desktop GUI.
+
+**Highlights**
+
+* ARP-based host discovery
+* Multithreaded port scanning
+* Network information gathering
+* Desktop interface
+* Scan result presentation
+
+**Stack:** `Python` · `Scapy` · `Socket` · `CustomTkinter`
+
+[View Repository →](https://github.com/ShahazaadAhmed/RapidNet-Scanner)
+
+---
+
+###  AES Cryptography Tool
+
+A desktop encryption application implementing AES-based file/text protection with automated key and IV generation.
+
+**Stack:** `Python` · `PyCryptodome` · `CustomTkinter`
+
+[View Repository →](https://github.com/ShahazaadAhmed/AES-Cryptography-Tool)
+
+---
+
+###  Password Toughness Auditor
+
+A password-analysis utility that evaluates password characteristics, provides improvement guidance, and demonstrates secure hashing concepts.
+
+**Stack:** `Python` · `hashlib`
+
+[View Repository →](https://github.com/ShahazaadAhmed/Password-Toughness-Auditor)
+
+---
+
+###  AI Breast Cancer Detection
+
+A machine-learning project exploring deep-learning techniques for medical classification using image-derived data.
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `Jupyter`
+
+[View Repository →](https://github.com/ShahazaadAhmed/AI---BCDS-Deep-Learning.github.io)
+
+---
+
+###  Oilseed Anomaly Dataset
+
+A curated computer-vision dataset focused on identifying anomalies in oilseed plants for agricultural AI research.
+
+**Focus:** `Computer Vision` · `Dataset Engineering` · `AgriTech`
+
+[View Repository →](https://github.com/ShahazaadAhmed/Image-Repository)
+
+---
+
+## Engineering Focus
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   NETWORK SECURITY                                      │
+│   ├── Network discovery                                 │
+│   ├── Traffic & host analysis                           │
+│   └── Security automation                               │
+│                                                         │
+│   SYSTEM SECURITY                                       │
+│   ├── Firewall management                               │
+│   ├── Policy validation                                 │
+│   └── Defensive tooling                                 │
+│                                                         │
+│   SECURITY DEVELOPMENT                                  │
+│   ├── Python                                            │
+│   ├── Cryptography                                      │
+│   └── Security-focused applications                     │
+│                                                         │
+│   APPLIED AI                                            │
+│   ├── Computer vision                                   │
+│   ├── Classification                                    │
+│   └── Domain-specific datasets                          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahazaadAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Shahazaad's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahazaadAhmed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahazaadAhmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahazaadAhmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<br>
 
 <img src="https://streak-stats.demolab.com?user=ShahazaadAhmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -81,28 +171,58 @@ I'm a **Cybersecurity & Python developer** who builds real, deployable security 
 
 ---
 
-##  What I'm Working Toward
+## Current Direction
 
 ```text
-  Deepening expertise in offensive and defensive cybersecurity
-  Expanding AI/ML applications in high-impact domains
-  Building tools that are production-ready, not just demos
-  Pursuing professional security certifications (CEH / CompTIA Security+)
+CYBERSECURITY
+    │
+    ├── Network & Systems Security
+    │
+    ├── Defensive Security Engineering
+    │
+    ├── Security Automation
+    │
+    └── Python Security Tooling
+             │
+             ▼
+       Applied Engineering
+             │
+             ├── AI / ML
+             ├── Computer Vision
+             └── Practical Security Research
 ```
 
 ---
 
-##  Let's Connect
+## What I Build
 
- Open to opportunities in **Cybersecurity**, **Python Development**, and **AI/ML Engineering**
+I am particularly interested in projects where cybersecurity concepts need to become **working software**.
+
+That includes:
+
+* Security automation
+* Network security tools
+* Firewall and policy management
+* Defensive security applications
+* Cryptographic utilities
+* Security-focused Python development
+* Applied machine learning
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahazaad-ahmed-b84147227/)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shahazaadahmed.vercel.app/)
+### Let's Connect
+
+Open to opportunities in **Cybersecurity · Security Engineering · Python Development**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shahazaad-ahmed-b84147227/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shahazaadahmed.vercel.app/)
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ShahazaadAhmed&style=flat-square&color=00C8FF" alt="Profile views" />
-
-*If any of my projects helped you, consider giving them a star!*
 
 </div>

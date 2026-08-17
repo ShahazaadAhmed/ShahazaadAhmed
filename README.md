@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Cybersecurity & Python developer** who builds real, deployable security tools — from network scanners and firewall engines to encryption applications. I also explore **AI/ML** for real-world impact, including deep learning for medical diagnosis and agricultural anomaly detection.
+I'm a **Cybersecurity & Python developer** who builds real, deployable security tools from network scanners and firewall engines to encryption applications. I also explore **AI/ML** for real-world impact, including deep learning for medical diagnosis and agricultural anomaly detection.
 
 - > Focused on **applied cybersecurity**: network recon, firewall automation, cryptography
 - > Building **AI systems** that solve tangible problems in healthcare and agriculture

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shahazaad Ahmed
+# Shahazaad Ahmed Mohammad
 
 ### Cybersecurity · Security Engineering · Python
 
